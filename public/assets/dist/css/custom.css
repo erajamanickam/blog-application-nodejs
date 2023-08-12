@@ -1,0 +1,11 @@
+[class*=sidebar-dark-] {
+    background-color: #0F093F !important;
+  }
+.btn-primary   {
+    background-color: #6857DD !important;
+    border-color: #6857DD !important;
+}
+
+.card-primary:not(.card-outline)>.card-header {
+    background-color: #6857DD !important;
+}
